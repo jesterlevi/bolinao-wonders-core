@@ -1,1 +1,1 @@
-web: ./build/install/bolinao-wonders/bin/bolinao-wonders
+web: bolinao-wonders app:app
