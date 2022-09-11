@@ -1,0 +1,1 @@
+rootProject.name = "com.example.bolinao-wonders"
