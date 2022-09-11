@@ -1,1 +1,1 @@
-web: bolinao-wonders app:app
+web: ./build/libs/com.example/bolinao-wonders-all.jar
